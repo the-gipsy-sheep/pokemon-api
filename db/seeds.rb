@@ -920,236 +920,220 @@ Pokemon.create(
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Scyther",
+  type1: "Bicho",
+  type2: "Volador",
+  number: 123,
+  description: "Sus guadañas se vuelven más afiladas con cada combate. Es capaz de rebanar troncos gruesos de un tajo.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Jynx",
+  type1: "Hielo",
+  type2: "Psíquico",
+  number: 124,
+  description: "En cierta parte de Galar se conocía a Jynx como la Reina del Hielo y se reverenciaba con cierto temor.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Electabuzz",
+  type1: "Eléctrico",
+  number: 125,
+  description: "Es habitual que las centrales eléctricas cuenten con Pokémon de tipo Tierra para hacer frente a los Electabuzz ávidos de electricidad.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Magmar",
+  type1: "Fuego",
+  number: 126,
+  description: "Abate a sus presas con las llamas que genera y con frecuencia acaba reduciéndolas a carbonilla por accidente.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Pinsir",
+  type1: "Bicho",
+  number: 127,
+  description: "Los Pinsir se juzgan entre ellos por la robustez de la cornamenta. Cuanto más imponente sea, más agradará a sus congéneres del sexo opuesto.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Tauros",
+  type1: "Normal",
+  number: 128,
+  description: "Conviene tener cuidado si empieza a fustigarse con las colas, pues es señal de que va a cargar a máxima velocidad.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Magikarp",
+  type1: "Agua",
+  number: 129,
+  description: "Es el Pokémon más débil y patético que existe, con una fuerza y velocidad prácticamente nulas.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Gyarados",
+  type1: "Agua",
+  type2: "Volador",
+  number: 130,
+  description: "Es exageradamente agresivo. El Hiperrayo que lanza por la boca reduce a cenizas todo lo que encuentra.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Lapras",
+  type1: "Agua",
+  type2: "Hielo",
+  number: 131,
+  description: "Este Pokémon posee una notable inteligencia y un corazón de oro. Entona un canto melodioso mientras surca el mar.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png"
 )
 
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Ditto",
+  type1: "Normal",
+  number: 132,
+  description: "Redistribuye las células de su cuerpo para cobrar la apariencia de lo que ve, pero vuelve a la normalidad al relajarse.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Eevee",
+  type1: "Normal",
+  number: 133,
+  description: "Es capaz de alterar la composición de su cuerpo para adaptarse al entorno.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Vaporeon",
+  type1: "Agua",
+  number: 134,
+  description: "Cuando las aletas de Vaporeon comienzan a vibrar, significa que lloverá en las próximas horas.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Jolteon",
+  type1: "Eléctrico",
+  number: 135,
+  description: "Si se enfada o asusta, se le eriza el pelaje. Cada uno de sus pelos se convierte en una afilada púa que hace trizas al rival.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Flareon",
+  type1: "Fuego",
+  number: 136,
+  description: "Una vez que ha almacenado el calor suficiente, puede alcanzar una temperatura de 900 ºC.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Porygon",
+  type1: "Normal",
+  number: 137,
+  description: "Se trata del primer Pokémon del mundo creado a partir de códigos de programación gracias al uso de tecnología de vanguardia.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Omanyte",
+  type1: "Roca",
+  type2: "Agua",
+  number: 138,
+  description: "Varios ejemplares han escapado o bien han sido liberados tras su restauración, lo que comienza a suscitar una serie de problemas.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Omastar",
+  type1: "Roca",
+  type2: "Agua",
+  number: 139,
+  description: "Se cree que se extinguió porque el excesivo tamaño y peso de su concha le impedían moverse con rapidez para capturar presas.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Kabuto",
+  type1: "Roca",
+  type2: "Agua",
+  number: 140,
+  description: "Un Pokémon casi extinto. Cada tres días, muda el caparazón, que se va endureciendo de forma progresiva.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Kabutops",
+  type1: "Roca",
+  type2: "Agua",
+  number: 141,
+  description: "Despedaza a las presas que atrapa para sorber sus fluidos y deja los restos para que otros Pokémon den buena cuenta de ellos.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png"
 )
 
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Aerodactyl",
+  type1: "Roca",
+  type2: "Volador",
+  number: 142,
+  description: "Un feroz Pokémon de la época prehistórica al que no bastan todos los avances tecnológicos actuales para regenerar a la perfección.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Snorlax",
+  type1: "Normal",
+  number: 143,
+  description: "No se encuentra satisfecho hasta haber ingerido 400 kg de comida cada día. Cuando acaba de comer, se queda dormido.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Articuno",
+  type1: "Hielo",
+  type2: "Volador",
+  number: 144,
+  description: "Se dice que sus bellas alas azules se componen de hielo. Vuela en torno a las montañas nevadas con su larga cola al viento.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Zapdos",
+  type1: "Eléctrico",
+  type2: "Volador",
+  number: 145,
+  description: "Posee el poder de controlar la electricidad a su antojo. Según la creencia popular, anida oculto en oscuros nubarrones de tormenta.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Moltres",
+  type1: "Fuego",
+  type2: "Volador",
+  number: 146,
+  description: "Una de las aves legendarias. Al batir las alas, las llamas que las envuelven emiten un hermoso fulgor rojo.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Dratini",
+  type1: "Dragón",
+  number: 147,
+  description: "Habita en orillas junto a fuertes corrientes de agua, como bajo cascadas. Muda la piel una y otra vez a medida que crece.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Dragonair",
+  type1: "Dragón",
+  number: 148,
+  description: "Vive en lagos y mares de aguas cristalinas. Su poder para controlar el clima le permite alzar el vuelo llevado por el viento.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Dragonite",
+  type1: "Dragón",
+  type2: "Volador",
+  number: 149,
+  description: "Un Pokémon bondadoso y compasivo al que le resulta imposible dar la espalda a Pokémon o humanos que se encuentren a la deriva.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Mewtwo",
+  type1: "Psíquico",
+  number: 150,
+  description: "Su ADN es casi el mismo que el de Mew. Sin embargo, su tamaño y carácter son muy diferentes.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
 )
 Pokemon.create(
-  name: ,
-  type1: ,
-  type2: ,
-  number: ,
-  description: ,
+  name: "Mew",
+  type1: "Psíquico",
+  number: 151,
+  description: "Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon.",
   image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png"
 )
